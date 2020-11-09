@@ -1,0 +1,11 @@
+C:\codebitsacademy\C-Sharp\labTask9-Generics\IntergenicResearchLibrary\bin\Debug\netcoreapp3.1\IntergenicResearchLibrary.exe
+C:\codebitsacademy\C-Sharp\labTask9-Generics\IntergenicResearchLibrary\bin\Debug\netcoreapp3.1\IntergenicResearchLibrary.deps.json
+C:\codebitsacademy\C-Sharp\labTask9-Generics\IntergenicResearchLibrary\bin\Debug\netcoreapp3.1\IntergenicResearchLibrary.runtimeconfig.json
+C:\codebitsacademy\C-Sharp\labTask9-Generics\IntergenicResearchLibrary\bin\Debug\netcoreapp3.1\IntergenicResearchLibrary.runtimeconfig.dev.json
+C:\codebitsacademy\C-Sharp\labTask9-Generics\IntergenicResearchLibrary\bin\Debug\netcoreapp3.1\IntergenicResearchLibrary.dll
+C:\codebitsacademy\C-Sharp\labTask9-Generics\IntergenicResearchLibrary\bin\Debug\netcoreapp3.1\IntergenicResearchLibrary.pdb
+C:\codebitsacademy\C-Sharp\labTask9-Generics\IntergenicResearchLibrary\obj\Debug\netcoreapp3.1\IntergenicResearchLibrary.csprojAssemblyReference.cache
+C:\codebitsacademy\C-Sharp\labTask9-Generics\IntergenicResearchLibrary\obj\Debug\netcoreapp3.1\IntergenicResearchLibrary.AssemblyInfoInputs.cache
+C:\codebitsacademy\C-Sharp\labTask9-Generics\IntergenicResearchLibrary\obj\Debug\netcoreapp3.1\IntergenicResearchLibrary.AssemblyInfo.cs
+C:\codebitsacademy\C-Sharp\labTask9-Generics\IntergenicResearchLibrary\obj\Debug\netcoreapp3.1\IntergenicResearchLibrary.dll
+C:\codebitsacademy\C-Sharp\labTask9-Generics\IntergenicResearchLibrary\obj\Debug\netcoreapp3.1\IntergenicResearchLibrary.pdb
